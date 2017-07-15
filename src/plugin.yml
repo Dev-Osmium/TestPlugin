@@ -1,0 +1,8 @@
+name: TestPlugin
+version: 0.0.1
+author: Dev_Osmium
+main: us.thefrostedkingdom.TestPlugin.TestPlugin
+commands:
+  kit:
+    description: Gives a kit to a player
+    usage: /kit
